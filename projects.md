@@ -4,60 +4,54 @@ title: Projects
 subtitle: Portfolio of Technical Work & Development Projects
 ---
 
-# Featured Projects
+# Featured Project
 
 ## Current Project: [Your Semester Project Name]
 **Status:** In Development | **Timeline:** Fall 2024
 
-### Overview
-Brief description of your current semester-long project for your CS professional development course.
+### Project Overview
+Detailed description of your project, its purpose, and technical challenges solved.
 
-**Technologies Used:**
-- [List your tech stack]
-- [Programming languages]
-- [Frameworks/libraries]
-- [Databases/tools]
+### Architecture & Design
+Brief explanation of your system design decisions and architecture.
 
-**Key Features:**
-- Feature 1 description
-- Feature 2 description
-- Feature 3 description
+### Key Implementation Highlights
 
-**Repository:** [GitHub Link](https://github.com/matt-presti/project-repo)  
-**Live Demo:** [Demo Link](https://your-demo-url.com) *(if applicable)*
+#### Database Schema Design
+```sql
+CREATE TABLE users (
+    id SERIAL PRIMARY KEY,
+    username VARCHAR(50) UNIQUE NOT NULL,
+    email VARCHAR(100) UNIQUE NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+```
 
----
 
-## Academic Projects
+# Personal Projects
 
-### Project Name 2
-**Course:** CS XXXX - Course Name | **Semester:** Fall 2024
-
-Brief project description and what you learned or accomplished.
-
-**Technologies:** Language/Framework used  
-**Repository:** [GitHub Link](https://github.com/matt-presti/project-repo)
-
-### Project Name 3
-**Course:** CS XXXX - Course Name | **Semester:** Spring 2024
-
-Brief project description and what you learned or accomplished.
-
-**Technologies:** Language/Framework used  
-**Repository:** [GitHub Link](https://github.com/matt-presti/project-repo)
-
----
-
-## Personal Projects
-
-### Project Name 4
+### [Your Independent Project]
 **Type:** Personal Development | **Year:** 2024
 
-Description of personal coding project or hackathon entry.
+Description emphasizing it was your idea and implementation.
 
-**Technologies:** Tech stack used  
-**Repository:** [GitHub Link](https://github.com/matt-presti/project-repo)  
-**Live Demo:** [Demo Link](https://your-demo-url.com) *(if applicable)*
+### [Another Personal Project]
+**Type:** [Hackathon/Personal/Open Source] | **Year:** 2024
+
+---
+
+## Selected Academic Work
+
+### [Significant Class Project]
+**Course Context:** Advanced Software Engineering | **My Role:** Lead Developer
+
+*Note: This was an open-ended project where I designed the architecture and implemented all core functionality.*
+
+**My Contributions:**
+- Designed the complete system architecture
+- Implemented 100% of the backend API (15+ endpoints)
+- Created the database schema and optimization strategies
+- Built the responsive frontend interface
 
 
 
@@ -65,8 +59,7 @@ Description of personal coding project or hackathon entry.
 
 **GitHub:** [@matt-presti](https://github.com/matt-presti)
 
-View all my repositories and contributions on GitHub. I maintain active development across multiple projects and contribute to open-source initiatives when possible.
-
+You may view the repositories for all projects mentioned here and as well as open source contributions on GitHub. 
 ---
 
 *This portfolio is continuously updated as I complete new projects and expand my technical skills. Each project includes detailed documentation and clean, commented code.*
