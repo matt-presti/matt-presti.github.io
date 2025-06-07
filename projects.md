@@ -7,13 +7,13 @@ subtitle: Portfolio of Technical Work & Development Projects
 # Featured Project
 
 ## Current Project: [Project Name]
-**Status:** In Development | **Timeline:** Fall 2024
+**Status:** In Development | **Timeline:** Summer-Fall 2025
 
 ### Project Overview
-Detailed description of your project, its purpose, and technical challenges solved.
+Detailed description of project, its purpose, and technical challenges solved.
 
 ### Architecture & Design
-Brief explanation of your system design decisions and architecture.
+Brief explanation of system design decisions and architecture.
 
 ### Key Implementation Highlights
 
