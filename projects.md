@@ -6,7 +6,7 @@ subtitle: Portfolio of Technical Work & Development Projects
 
 # Featured Project
 
-## Current Project: [Your Semester Project Name]
+## Current Project: [Project Name]
 **Status:** In Development | **Timeline:** Fall 2024
 
 ### Project Overview
