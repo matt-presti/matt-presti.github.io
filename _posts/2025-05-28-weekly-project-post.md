@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Weekly Project Post #1
-subtitle: Project planning and decision-making process
+title: "Weekly Project Post #1"
+subtitle: "Project planning and decision-making process"
+date: 2025-06-20
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [project, weekly-update, programming]
-author: Your Name
+author: Matthew Presti
 ---
 
 **Weekly Project Post #1.**
