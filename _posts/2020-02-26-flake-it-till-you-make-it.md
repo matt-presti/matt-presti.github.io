@@ -1,18 +1,26 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Weekly Project Post #1
+subtitle: Project planning and decision-making process
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+tags: [project, weekly-update, programming]
+author: Your Name
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+**Weekly Project Post #1.**
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+**What did you do last week?** I dedicated most of my time to researching and trying to decide on a project idea, which has proven to be much more challenging than I initially anticipated. I spent significant time analyzing job postings to understand what skillsets and technologies are currently in demand.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+Two main directions have captured my interest. First, I'm considering a project related to embedded programming, as I find this area interesting. I'm exploring options with Arduino or Raspberry Pi. Arduino for lower-level hardware control with GPIO pins, sensors, and actuators, or Raspberry Pi for more complex projects that could integrate IoT capabilities or data collection systems. One idea is to build an automated garden monitoring system that my mom could use for her flowerbeds and plants, since she's highly passionate about gardening but often away from the house. This system could provide real-time feedback on soil conditions, moisture levels.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Secondly, I'm exploring Java and Spring Boot projects. A close friend who works as a senior software engineer at a financial company develops backend systems using Spring Boot, opening my eyes to potential career opportunities in enterprise software development. For Spring Boot projects, I'm considering building a RESTful API for a personal finance tracker with user authentication and real-time notifications.
+
+I'm also creating my GitHub Pages website and have been doing considerable internal reflection about what truly interests me in computer science and my long-term career goals—this has arguably been the most challenging aspect of the process.
+
+**What do you plan to do this week?** This week, I plan to finalize my project decision and begin the initial setup/design phase. I will have to choose between the embedded programming path and the Spring Boot backend development route, then start setting up the necessary development environment and tools. I also plan to complete my GitHub Pages website and write my project proposal.
+
+**Are there any impediments in your way?** My biggest obstacle has been "analysis paralysis" as it's called. I know I've been overthinking the decision and trying to optimize for job market demands rather than following my genuine interests. I recognize I've been putting pressure on myself to choose a project that maximizes employability, which is likely not the most helpful approach.
+
+**Reflection on the process you used last week, how can you make the process work better?** I can improve my process by being more decisive and trusting my instincts. I recognize that concerning myself less with the current state of the job market and not trying to create the "perfect" resume-boosting project would be beneficial. Moving forward, I will focus on choosing something that genuinely interests me, as this will likely lead to a higher quality project than one chosen purely for strategic reasons. I need to remember that any well-executed project will demonstrate valuable skills to employers.
