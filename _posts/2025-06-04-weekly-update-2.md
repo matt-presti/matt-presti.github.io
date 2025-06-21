@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Project Post #2"
 subtitle: Investment portfolio tracker development update
+date: 2025-06-04
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
