@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly Project Post #2
+title: "Weekly Project Post #2"
 subtitle: Investment portfolio tracker development update
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
