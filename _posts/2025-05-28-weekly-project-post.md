@@ -4,7 +4,6 @@ title: "Weekly Project Post #1"
 subtitle: "Project planning and decision-making process"
 date: 2025-05-28
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [project, weekly-update, programming]
 author: Matthew Presti
