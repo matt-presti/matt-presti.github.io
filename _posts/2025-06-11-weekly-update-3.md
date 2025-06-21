@@ -10,34 +10,19 @@ tags: [project, java, spring-boot, weekly-update]
 author: Matthew Presti
 ---
 
+**Weekly Progress Report**
+This week, I focused my time on planning and design for my project as well as going through the Spring Boot Official Documentation to try to familiarize myself with the framework. I made a pretty impactful decision early on in the design phase–I’m using Thymeleaf for the frontend instead of React. I feel that this aligns more with my goals for the project and helps reduce the scope/complexity. I want to spend most of my time learning Spring Boot, not fighting with complex JavaScript frameworks.
+
+I created detailed API documentation and database designs, outlining 15+ REST endpoints with specific request/response formats, five database tables, authentication system with JWT tokens and comprehensive test cases for the database, API, and portfolio performance calculations.
 
 
-**What did you do last week?**
+Samples from Design Documents:
 
 
-My main accomplishment this week was finalizing my project idea. I am building an investment portfolio tracker using Spring Boot and Java. This combines my interest in financial technology with the opportunity to gain experience with enterprise Java development.
-
-I completed my project proposal and created a weekly schedule that breaks down the development process into manageable chunks. I also compiled learning resources for Java and Spring Boot, including documentation, tutorials, and Stack Overflow threads for common implementation challenges.
-
-On the design front, I'm currently working on the initial system architecture by creating entity relationship diagrams for my core data models (User, Portfolio, Stock, and Transaction entities). 
-
-I also overhauled my portfolio website with a cleaner, professional template that will better showcase this project's progress.
-
-**What do you plan to do this week?**
 
 
-This week my aim is to transition from planning to building. I'll set up my development environment by installing JDK 17+, IntelliJ IDEA, and Maven, then create the initial Spring Boot project with essential dependencies (Web, JPA, H2 database, and Security).
-
-On the development side, I plan to implement the core REST API structure by creating basic controller classes and getting the first GET and POST endpoints working for my main entities. 
-
-**Are there any impediments in your way?**
 
 
-The biggest challenge is the project's scope--building a full-stack investment tracker is ambitious, and the learning curve for Java and Spring Boot feels somewhat steep. Time management is also challenging with other coursewor and life commitments. Finding consistent blocks of focused development time remains challenging.
+This week, I’m finally moving from planning to coding. I’ll set up my development environment with all the tools I need (JDK, IntelliJ, and Maven for managing dependencies). My first goal is getting user registration and login working properly. I want to implement secure password storage and JWT tokens so users can stay logged in. It seems like getting authentication right will be crucial for everything else to function. I’m also planning to create my first database entities and the service layers.
 
-**Reflection on the process you used last week, how can you make the process work better?**
-
-
-The extensive planning phase was the right approach - having a detailed timeline makes the project feel more manageable. However, I may have spent too much time perfecting the proposal and my website instead of doing more tangible work on the project itself. Moving forward, I plan to implement a more iterative approach--get something basic working, then refine and expand.
-
-For this week, I'll try shorter, more frequent coding sessions rather than waiting for large time blocks. I'm also planning to document progress more frequently with screenshots and brief notes about challenges encountered. I think documenting and being able to explain my decision making process will be great practice for job interviews.
+I’m feeling encouraged about the progress so far, though I know the real challenges are coming with implementation. The Yahoo Finance integration and security setup will probably be tricky since I’m still learning these concepts. I’m glad I spent time on detailed planning as having clear specifications has allowed me to feel like I now have a guideline for beginning implementation.
