@@ -11,6 +11,8 @@ author: Matthew Presti
 ---
 
 **Weekly Progress Report**
+
+
 This week, I focused my time on planning and design for my project as well as going through the Spring Boot Official Documentation to try to familiarize myself with the framework. I made a pretty impactful decision early on in the design phase–I’m using Thymeleaf for the frontend instead of React. I feel that this aligns more with my goals for the project and helps reduce the scope/complexity. I want to spend most of my time learning Spring Boot, not fighting with complex JavaScript frameworks.
 
 I created detailed API documentation and database designs, outlining 15+ REST endpoints with specific request/response formats, five database tables, authentication system with JWT tokens and comprehensive test cases for the database, API, and portfolio performance calculations.
