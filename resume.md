@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Resume
-subtitle: Computer Science Student & Aspiring Software Developer
 ---
 
 <div style="text-align: center; margin-bottom: 30px;">
 <h1>Matthew Presti</h1>
 <p><strong>Computer Science Student | University of Colorado Boulder</strong></p>
 <p>📧 matthew.presti@colorado.edu | 📱 719-369-4581</p>
-<p>🔗 <a href="https://www.linkedin.com/in/matthew-presti-6531aa361/">LinkedIn</a> | 💻 <a href="https://github.com/matt-presti">GitHub</a> 
+<p>🔗 <a href="https://www.linkedin.com/in/matthew-presti-6531aa361/">LinkedIn</a> | 💻 <a href="https://github.com/matt-presti">GitHub</a> </p>
 </div>
 
 <div style="text-align: center; margin: 20px 0;">
