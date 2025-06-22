@@ -3,7 +3,7 @@ layout: post
 title: "Weekly Project Post #1"
 subtitle: "Project planning and decision-making process"
 date: 2025-05-28
-share-img: /assets/img/IT.png
+thumbnail-img: /assets/img/IT.png
 tags: [project, weekly-update, programming]
 author: Matthew Presti
 ---
