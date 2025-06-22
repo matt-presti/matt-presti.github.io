@@ -19,7 +19,7 @@ The application follows a multi-layered architecture utilizing Spring Boot's dep
 - **Enterprise Java Development:** Spring Boot framework, dependency injection, Maven build management
 - **Backend Architecture:** Multi-layered application design, RESTful API development, service-oriented architecture
 - **Database Management:** PostgreSQL integration, JPA/Hibernate ORM, database schema design and optimization
-- **Security Implementation:** Spring Security configuration, BCrypt encryption, JWT authentication flows
+- **Security Implementation:** Spring Security configuration, BCrypt encryption, database-based session authentication
 - **API Integration:** External service consumption, rate limiting, caching strategies, error handling
 - **DevOps & Testing:** Docker containerization, unit/integration testing with JUnit 5 and MockMvc, cloud deployment
 
