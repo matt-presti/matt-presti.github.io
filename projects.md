@@ -74,8 +74,6 @@ Achieved ROUGE-1 scores of 0.24 with 17% parameter identification accuracy. The 
 ## GitHub Profile
 **GitHub:** [@matt-presti](https://github.com/matt-presti)
 
-All project repositories include comprehensive documentation, clean code architecture, and detailed setup instructions. View complete source code, technical documentation, and development progress on GitHub.
-
 ---
 
 *This portfolio demonstrates practical application of enterprise development patterns, machine learning techniques, and modern software engineering practices. Each project showcases different aspects of full-stack development and data science capabilities.*
