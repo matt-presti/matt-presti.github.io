@@ -3,7 +3,6 @@ layout: post
 title: "Weekly Project Post #2"
 subtitle: Investment portfolio tracker development update
 date: 2025-06-04
-cover-img: /assets/img/IT.png
 share-img: /assets/img/IT.png
 tags: [project, java, spring-boot, weekly-update]
 author: Matthew Presti
