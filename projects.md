@@ -17,62 +17,79 @@ The application follows a multi-layered architecture utilizing Spring Boot's dep
 
 ### Technical Skills Demonstrated
 - **Enterprise Java Development:** Spring Boot framework, dependency injection, Maven build management
-- **Backend Architecture:** Multi-layered application design, RESTful API development, service-oriented architecture
-- **Database Management:** PostgreSQL integration, JPA/Hibernate ORM, database schema design and optimization
+- **Database Management:** PostgreSQL integration, JPA/Hibernate ORM, database schema design
 - **Security Implementation:** Spring Security configuration, BCrypt encryption, database-based session authentication
-- **API Integration:** External service consumption, rate limiting, caching strategies, error handling
-- **DevOps & Testing:** Docker containerization, unit/integration testing with JUnit 5 and MockMvc, cloud deployment
+- **DevOps & Testing:** Docker containerization, unit/integration testing with JUnit 5 and MockMvc
 
 ---
 
 # Completed Projects
 
 ## WildFireCast: Predictive Analytics for Wildfire Risk Assessment
-**Technologies:** Python, XGBoost, UMAP, HDBSCAN, NASA MODIS, NOAA Data | **Year:** 2025
+**Technologies:** Python, XGBoost, UMAP, HDBSCAN, NASA MODIS, NOAA Data | **Year:** 2024
 
 ### Project Overview
-Developed a machine learning system to predict wildfire intensity using weather pattern analysis and satellite data. The project integrated NOAA weather station data with NASA MODIS satellite wildfire detections across California from 2011-2020, implementing both supervised and unsupervised learning approaches to identify weather patterns that precede high-intensity fire events.
+Developed a comprehensive machine learning system to predict wildfire intensity using weather pattern analysis and satellite data. The project integrated NOAA Global Surface Summary weather station data with NASA MODIS satellite wildfire detections across California from 2011-2020, implementing both supervised and unsupervised learning approaches to identify specific weather pattern signatures that precede high-intensity fire events.
 
-### Technical Implementation
-Built a comprehensive data processing pipeline that transformed raw weather and satellite data into meaningful predictive features. Implemented a custom spatial clustering algorithm to aggregate individual satellite fire detections into coherent wildfire events, processing approximately 7.8 million detection points. Developed feature engineering techniques extracting 30-day weather patterns preceding fire events.
+### Technical Implementation & Results
+Built an innovative data processing pipeline that transformed approximately 7.8 million individual satellite fire detections into coherent wildfire events through custom spatial-temporal clustering. Developed a sophisticated feature engineering approach extracting 30-day weather patterns preceding each fire event, including temperature metrics, precipitation totals, drought duration, and derived indices.
+
+**Predictive Modeling Results:**
+- **XGBoost Classification:** Achieved 80% accuracy in predicting fire intensity based on preceding weather conditions
+- **Counter-intuitive Finding:** Wind speed showed surprisingly limited predictive value for fire intensity, contrary to conventional wisdom
+- **Pattern Discovery:** UMAP and HDBSCAN clustering identified 55 distinct weather patterns, with high-risk clusters showing fire rates of 73% and 61%
+
+**Spatial Integration Innovation:** Implemented a buffer-based methodology associating wildfire events with nearest weather stations within 50km radius, utilizing KDTree optimization for computational efficiency across 9,000+ weather stations.
 
 ### Technical Skills Demonstrated
-- **Data Science Pipeline:** Large-scale data processing and integration from multiple heterogeneous sources
 - **Machine Learning:** XGBoost ensemble methods, UMAP dimensionality reduction, HDBSCAN clustering algorithms
 - **Geospatial Analysis:** Custom spatial clustering algorithms, KDTree optimization, coordinate system transformations
 - **Feature Engineering:** Time-series analysis, statistical aggregations, domain-specific metric creation
-- **Model Evaluation:** SHAP interpretability analysis, cross-validation strategies, multi-metric assessment frameworks
-- **Scientific Computing:** NASA MODIS and NOAA dataset processing, statistical correlation analysis, pattern discovery techniques
+- **Scientific Computing:** NASA MODIS and NOAA dataset processing, statistical correlation analysis
 
-### Key Findings & Impact
-The analysis revealed that no single weather factor dominates wildfire prediction—instead, combinations of extended drought periods, elevated temperatures, and low humidity create conditions for intense fires. Contrary to expectations, wind speed showed limited predictive value. The methodology provides a framework for early warning systems and could inform wildfire management strategies.
+### Impact & Applications
+The methodology provides a framework for early warning systems and reveals that effective fire prediction requires monitoring a constellation of weather conditions rather than simplified metrics. Results demonstrate potential for 30-day advance warning systems and strategic resource allocation during high-risk periods.
 
 ---
 
 ## CodeDocGen: Automated Documentation Generator
-**Technologies:** Python, CodeBERT, Transformers, PyTorch, Hugging Face | **Year:** 2025
+**Technologies:** Python, CodeBERT, Transformers, PyTorch, Hugging Face | **Year:** 2024
 
 ### Project Overview
-Developed an automated code documentation system using transformer-based models to generate Python function docstrings. The project treated code documentation as a sequence-to-sequence translation problem, implementing CodeBERT for understanding code structure and generating natural language descriptions.
+Developed an automated code documentation system using transformer-based models to generate Python function docstrings from source code. The project implemented CodeBERT as a sequence-to-sequence translation system, treating code documentation generation as a natural language processing task that translates between programming language syntax and human-readable descriptions.
 
-### Technical Architecture
-Implemented an encoder-decoder architecture using CodeBERT from Hugging Face's transformers library. The system processes the CodeSearchNet dataset containing 412,178 Python functions with associated docstrings. Developed custom preprocessing pipelines for tokenization and data preparation, along with specialized evaluation metrics combining ROUGE scores with functional correctness measures.
+### Technical Implementation & Constraints
+Implemented an encoder-decoder architecture using CodeBERT from Hugging Face's transformers library, processing the CodeSearchNet dataset containing 412,178 Python functions with associated docstrings. Due to significant computational constraints (training performed locally on M2 MacBook Air without GPU acceleration), the study was limited to 100 training samples across 3 epochs with a batch size of 2.
+
+**Architecture Details:**
+- **Model Configuration:** CodeBERT-based encoder-decoder with cross-entropy loss optimization
+- **Training Parameters:** Learning rate of 5e-5, AdamW optimizer with 0.01 weight decay
+- **Data Pipeline:** Custom tokenization and preprocessing with 80/10/10 train/validation/test split
+- **Hardware Limitations:** Local training without GPU acceleration significantly restricted model convergence potential
+
+### Results & Technical Insights
+Despite computational constraints, the system demonstrated moderate success in capturing code-documentation relationships:
+
+**Performance Metrics:**
+- **ROUGE-1 Score:** 0.24 (24% unigram overlap with reference documentation)
+- **ROUGE-L Score:** 0.10 (indicating challenges in maintaining proper word sequences)
+- **Parameter Identification:** 17% accuracy in correctly identifying function parameters in generated documentation
+- **Coherence Analysis:** Generated text contained relevant technical vocabulary but lacked grammatical structure due to insufficient training data
+
+**Key Technical Findings:** The project revealed the computational complexity and resource requirements for effective transformer-based code understanding. Results suggest that with adequate computational resources and full dataset training, the approach has potential for automated documentation generation. The experience provided valuable insights into the challenges of translating between formal programming languages and natural language while highlighting the critical importance of sufficient training data for transformer model convergence.
 
 ### Technical Skills Demonstrated
 - **Natural Language Processing:** Transformer architecture implementation, sequence-to-sequence modeling, attention mechanisms
 - **Deep Learning Frameworks:** PyTorch integration, Hugging Face transformers library, CodeBERT fine-tuning
 - **Model Training & Optimization:** Custom dataset preprocessing, tokenization strategies, hyperparameter tuning
-- **Evaluation Methodologies:** ROUGE metric implementation, custom accuracy measures, multi-dimensional assessment
-- **Code Analysis:** Abstract syntax tree processing, programming language tokenization, semantic code understanding
 - **Research Implementation:** Academic paper replication, experimental design, computational constraint management
-
-### Results & Technical Insights
-Achieved ROUGE-1 scores of 0.24 with 17% parameter identification accuracy. The project highlighted the computational complexity of transformer-based code understanding and provided insights into the challenges of translating between programming languages and natural language. The framework demonstrates the potential for automated documentation tools while revealing areas for future optimization.
 
 ---
 
 ## GitHub Profile
 **GitHub:** [@matt-presti](https://github.com/matt-presti)
+
+All project repositories include comprehensive documentation, clean code architecture, and detailed setup instructions. View complete source code, technical documentation, and development progress on GitHub.
 
 ---
 
