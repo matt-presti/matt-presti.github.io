@@ -8,7 +8,7 @@ subtitle: Computer Science Student & Aspiring Software Developer
 <h1>Matthew Presti</h1>
 <p><strong>Computer Science Student | University of Colorado Boulder</strong></p>
 <p>📧 matthew.presti@colorado.edu | 📱 719-369-4581</p>
-<p>🔗 <a href="https://www.linkedin.com/in/matthew-presti-6531aa361/">LinkedIn</a> | 💻 <a href="https://github.com/matt-presti">GitHub</a> | 🌐 <a href="https://matt-presti.github.io">Portfolio Website</a></p>
+<p>🔗 <a href="https://www.linkedin.com/in/matthew-presti-6531aa361/">LinkedIn</a> | 💻 <a href="https://github.com/matt-presti">GitHub</a> 
 </div>
 
 <div style="text-align: center; margin: 20px 0;">
