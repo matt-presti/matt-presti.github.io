@@ -109,7 +109,6 @@ Git, Full-Stack Development, Agile Methodologies, Cloud Computing, Data Structur
 
 <div style="text-align: center; margin-top: 30px; padding: 20px; background-color: #f8f9fa; border-radius: 8px;">
 <p><strong>Download PDF Resume:</strong> <a href="/assets/files/Matthew_Presti_Resume.pdf" target="_blank">Matthew_Presti_Resume.pdf</a></p>
-<p><em>Last Updated: December 2024</em></p>
 </div>
 
 ---
