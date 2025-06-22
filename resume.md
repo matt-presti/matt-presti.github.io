@@ -95,6 +95,7 @@ Git, Full-Stack Development, Agile Methodologies, Cloud Computing, Data Structur
 
 **Atraumatic Fracture of the Medial Femoral Condyle of a T.K.A.**  
 *Arthroplasty Today* | 2021
+[Link to Article](https://www.arthroplastytoday.org/article/S2352-3441(21)00042-X/fulltext)
 
 ---
 
