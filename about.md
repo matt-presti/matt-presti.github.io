@@ -25,17 +25,19 @@ These posts serve as both a personal learning tool and a way to demonstrate my p
 
 ## About Me
 
-I'm a Computer Science student with a unique background combining technical expertise and real-world management experience from my time in healthcare operations. What sets me apart is my proven leadership abilities, strong communication skills, and passion for collaborative problem-solving.
+I'm a Computer Science student with an interesting path that brought me to tech through healthcare and the outdoors. I really enjoy working with people and have found that my experience in healthcare management has given me a different perspective on teamwork and communication. I'm genuinely fascinated by how technology can help improve our livelihood, our understanding of the world, and our ability to connect with eachother in meaningful ways. 
 
-When I'm not coding, you'll find me exploring Colorado's outdoors through skiing, mountain biking, white-water rafting, and other adventures. This love for outdoor challenges keeps me energized and provides the perfect balance to long development sessions.
+I previously worked as a fly fishing guide which was an incredible experience that taught me a lot about patience, connecting with people, and the joy of shared experiences. These days, I love the challenge of building applications and figuring out how different pieces of code work together.
+
+When I'm not at my computer, I'm usually seeking adventures in the Colorado mountains whether that's fishing, skiing, mountain biking, rafting, or hiking. Outdoor recreation has always been an integral part of my life and my basis for maintaining balance and connection. 
 
 ## Purpose & Goals
 
 This website serves multiple purposes:
-- **Document my technical growth** and learning process
-- **Showcase my development approach** and problem-solving skills  
-- **Demonstrate consistency** in project execution and reflection
-- **Provide insight** into my work style for potential employers and collaborators
+- **Document my technical growth and learning process**
+- **Showcase my development approach and problem-solving skills** 
+- **Demonstrate consistency in project execution and reflection**
+- **Provide insight into my work style for potential employers and collaborators**
 
 I believe that showing the journey—not just the final product—gives a more complete picture of my capabilities as a developer and team member.
 
@@ -56,3 +58,5 @@ Here's what you'll find on each page of this site:
 ---
 
 *Thanks for following along with my development journey! Feel free to explore my weekly updates and reach out if you'd like to connect.*
+
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/matthew-presti-6531aa361/)
