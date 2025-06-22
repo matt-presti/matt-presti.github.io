@@ -7,117 +7,111 @@ subtitle: Computer Science Student & Aspiring Software Developer
 <div style="text-align: center; margin-bottom: 30px;">
 <h1>Matthew Presti</h1>
 <p><strong>Computer Science Student | University of Colorado Boulder</strong></p>
-<p>📧 matthew.presti@colorado.edu | 🔗 <a href="https://www.linkedin.com/in/matthew-presti-6531aa361/">LinkedIn</a> | 💻 <a href="https://github.com/matt-presti">GitHub</a></p>
-<p>🌐 <a href="https://matt-presti.github.io">Portfolio Website</a></p>
+<p>📧 matthew.presti@colorado.edu | 📱 719-369-4581</p>
+<p>🔗 <a href="https://www.linkedin.com/in/matthew-presti-6531aa361/">LinkedIn</a> | 💻 <a href="https://github.com/matt-presti">GitHub</a> | 🌐 <a href="https://matt-presti.github.io">Portfolio Website</a></p>
 </div>
+
+<div style="text-align: center; margin: 20px 0;">
+<a href="/assets/files/Matthew_Presti_Resume.pdf" target="_blank" style="background-color: #3498db; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold;">📄 Download PDF Resume</a>
+</div>
+
+---
+
+## Summary
+
+Computer science student and proven leader with healthcare management background. Eager learner skilled in database systems, C++, Python programming, and full-stack JavaScript development. Combines strong technical aptitude with exceptional interpersonal communication and team-building abilities. Thrives in collaborative environments and seeking to leverage this distinctive background for a dynamic development team.
 
 ---
 
 ## Education
 
-**Bachelor of Science in Computer Science**  
-*University of Colorado Boulder* | Expected Graduation: [Month Year]  
-- **Relevant Coursework:** Data Structures, Algorithms, Software Engineering, Database Systems, Computer Systems
-- **GPA:** [Your GPA] *(if 3.5 or higher)*
+**Bachelor of Science in Applied Computer Science**  
+*University of Colorado Boulder* | Expected Graduation: August 2025  
+**GPA:** 3.58
+
+**Bachelor of Arts in Molecular Biology** (Minor in Spanish)  
+*Colorado College* | 2019  
+**GPA:** 3.56
 
 ---
 
 ## Technical Skills
 
 ### Programming Languages
-**Proficient:** Python, Java, JavaScript  
-**Familiar:** C++, HTML/CSS, SQL  
-**Learning:** [Languages you're currently studying]
+Python, C++, SQL, JavaScript, Scala
 
-### Frameworks & Libraries
-- **Web Development:** React, Node.js, Express.js
-- **Data Science:** pandas, NumPy, matplotlib
-- **Testing:** JUnit, Jest
+### Database Systems
+PostgreSQL, MySQL, MongoDB, Cassandra
 
-### Tools & Technologies
-- **Version Control:** Git, GitHub
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Cloud Platforms:** AWS, Google Cloud Platform
-- **Development Tools:** VS Code, IntelliJ IDEA, Eclipse
-- **Operating Systems:** Windows, macOS, Linux
-
----
-
-## Projects
-
-### [Current Semester Project Name]
-*CS Professional Development Course | Fall 2024*
-- Brief description of your main project and its technical challenges
-- Technologies used and key accomplishments
-- [GitHub Repository](https://github.com/matt-presti/project-repo)
-
-### [Academic Project 2]
-*Course Name | Semester Year*
-- Project description focusing on technical skills demonstrated
-- Key technologies and methodologies used
-
-### [Academic Project 3]
-*Course Name | Semester Year*
-- Project description emphasizing problem-solving and implementation
-- Notable features or technical achievements
+### Technologies & Frameworks
+Git, Full-Stack Development, Agile Methodologies, Cloud Computing, Data Structures, Algorithms, Functional Programming, System Design, Microservices Architecture, TensorFlow, PyTorch, Hugging Face Transformers, Machine Learning, Data Mining
 
 ---
 
 ## Experience
 
-### [Job Title]
-*Company Name | City, State | Month Year - Present/Month Year*
-- Bullet point describing relevant technical or professional experience
-- Quantifiable achievement or responsibility
-- Skills or technologies used
+### Manager, Medical Scribe Program
+*BoulderCentre for Orthopedics | Boulder, CO | February 2022 - March 2024*
+- Managed full operational oversight of medical scribe program, including recruiting, interviewing, hiring, training, and scheduling
+- Coordinated staff scheduling and onboarding across multiple facilities during practice expansion, growing team from five to nine members
+- Presented monthly physician-scribe usage hours and cost reports, conducted yearly performance reviews
+- Gained valuable insight into healthcare business operations through direct mentorship with executive leadership
 
-### [Internship/Part-time Position]
-*Company Name | City, State | Month Year - Month Year*
-- Description of role and responsibilities
-- Technical skills applied or learned
-- Impact or contributions made
+### Medical Scribe
+*BoulderCentre for Orthopedics | Boulder, CO | October 2019 - February 2022*
+- Supported multiple orthopedic sub-specialists by adapting to individual documentation preferences while managing 100+ weekly patient encounters
+- Mastered specialized medical terminology to accurately document surgical consultations, procedures, and follow-up visits
+- Coordinated comprehensive patient care by writing physician orders for imaging, lab tests, referrals, and follow-up communication
 
-### [Other Relevant Experience]
-*Organization | City, State | Month Year - Month Year*
-- Leadership experience, volunteer work, or other relevant activities
-- Skills developed or demonstrated
-
----
-
-## Certifications & Achievements
-
-- **[Certification Name]** - *Issuing Organization* (Year)
-- **[Achievement/Award]** - *University/Organization* (Year)
-- **[Relevant Coursework Completion]** - *Platform* (Year)
+### Fly Fishing Guide
+*Front Range Anglers | Boulder, CO | May 2019 - October 2019*
+- Led guided fly-fishing expeditions throughout the Front Range, leveraging extensive knowledge of local waters and advanced fishing techniques
+- Co-instructed two-week youth camp program introducing 8-12 year-olds to fly fishing fundamentals and environmental stewardship
+- Maintained high client satisfaction ratings through engaging communication and personalized experiences
 
 ---
 
-## Extracurricular Activities
+## Projects
 
-### [Student Organization/Club]
-*Role/Position | Month Year - Month Year*
-- Description of involvement and contributions
-- Leadership or technical skills demonstrated
+### InvestaTrack: Investment Portfolio Tracker
+*Personal Development Project | In Progress*
+- Building a full-stack investment portfolio tracking application using Spring Boot and Java
+- Implementing RESTful API design with PostgreSQL database integration and Spring Security authentication
+- Developing real-time portfolio performance monitoring through financial data API integration
 
-### [Hackathons/Competitions]
-- **[Event Name]** - *Location, Year* - Brief description of project/achievement
-- **[Event Name]** - *Location, Year* - Brief description of project/achievement
+### WildFireCast: Predictive Analytics for Wildfire Risk Assessment
+*Data Science Research Project | 2024*
+- Built a geospatial data pipeline integrating NOAA weather data and NASA MODIS satellite imagery using Python and SQL for wildfire risk analysis
+- Applied complementary data mining approaches including predictive modeling (XGBoost) and unsupervised pattern discovery (UMAP with HDBSCAN clustering) to identify critical wildfire event patterns
+- Achieved 80% accuracy in predicting fire intensity based on weather conditions
+
+### CodeDocGen: Automated Documentation Generator for Python Functions
+*Natural Language Processing Project | 2024*
+- Designed and implemented an NLP pipeline using transformer-based model (CodeBERT) to automatically generate technical documentation from Python source code
+- Implemented industry-standard NLP evaluation metrics and assessed utility by accuracy in parameter and return value identification
+
+---
+
+## Publications
+
+**Atraumatic Fracture of the Medial Femoral Condyle of a T.K.A.**  
+*Arthroplasty Today* | 2021
 
 ---
 
 ## Professional Development
 
-- **Current Focus:** [Your semester project and professional development goals]
-- **Career Interests:** Software Development, [Other areas of interest]
-- **Learning Goals:** [Technologies or skills you're actively developing]
+- **Current Focus:** Full-stack web development with Spring Boot and enterprise Java patterns
+- **Career Interests:** Software Development, Machine Learning, Data Engineering
+- **Learning Goals:** Cloud deployment, microservices architecture, advanced database optimization
 
 ---
 
 <div style="text-align: center; margin-top: 30px; padding: 20px; background-color: #f8f9fa; border-radius: 8px;">
 <p><strong>Download PDF Resume:</strong> <a href="/assets/files/Matthew_Presti_Resume.pdf" target="_blank">Matthew_Presti_Resume.pdf</a></p>
-<p><em>Last Updated: [Current Month Year]</em></p>
+<p><em>Last Updated: December 2024</em></p>
 </div>
 
 ---
 
-*This resume is maintained as both a web page and downloadable PDF. For the most current version and detailed project information, visit my [portfolio website](https://matt-presti.github.io).*
+*This resume is maintained as both a web page and downloadable PDF.*
