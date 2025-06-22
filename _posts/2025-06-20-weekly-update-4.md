@@ -3,7 +3,6 @@ layout: post
 title: "Weekly Project Post #4"
 subtitle: InvestaTrack development updates
 date: 2025-06-20
-cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
 tags: [project, java, spring-boot, weekly-update]
 author: Matthew Presti
