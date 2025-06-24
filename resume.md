@@ -18,7 +18,7 @@ title: Resume
 
 ## Summary
 
-Computer science student and proven leader with healthcare management background. Eager learner skilled in database systems, C++, Python programming, and full-stack JavaScript development. Combines strong technical aptitude with exceptional interpersonal communication and team-building abilities. Thrives in collaborative environments and seeking to leverage this distinctive background for a dynamic development team.
+Computer science student with proven healthcare management experience and molecular biology degree, specializing in backend development and machine learning. Experienced building data-driven applications using Spring Boot, Python, and modern ML frameworks. Combines life sciences expertise with strong interpersonal skills and passion for collaborative problem-solving in technical teams.
 
 ---
 
@@ -26,7 +26,7 @@ Computer science student and proven leader with healthcare management background
 
 **Bachelor of Science in Applied Computer Science**  
 *University of Colorado Boulder* | Expected Graduation: August 2025  
-**GPA:** 3.58
+**GPA:** 3.65
 
 **Bachelor of Arts in Molecular Biology** (Minor in Spanish)  
 *Colorado College* | 2019  
@@ -37,13 +37,15 @@ Computer science student and proven leader with healthcare management background
 ## Technical Skills
 
 ### Programming Languages
-Python, C++, SQL, JavaScript, Scala
+Python, C++, Java, SQL, JavaScript, Scala
 
 ### Database Systems
 PostgreSQL, MySQL, MongoDB, Cassandra
 
 ### Technologies & Frameworks
-Git, Full-Stack Development, Agile Methodologies, Cloud Computing, Data Structures, Algorithms, Functional Programming, System Design, Microservices Architecture, TensorFlow, PyTorch, Hugging Face Transformers, Machine Learning, Data Mining
+**Backend/Web:** Spring Boot, RESTful APIs, Docker, Git, JPA/Hibernate, Spring Security, Maven
+**Machine Learning/Data Science:** TensorFlow, PyTorch, Hugging Face Transformers, XGBoost, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, UMAP/HDBSCAN Clustering
+
 
 ---
 
@@ -96,14 +98,6 @@ Git, Full-Stack Development, Agile Methodologies, Cloud Computing, Data Structur
 **Atraumatic Fracture of the Medial Femoral Condyle of a T.K.A.**  
 *Arthroplasty Today* | 2021
 [Link to Article](https://www.arthroplastytoday.org/article/S2352-3441(21)00042-X/fulltext)
-
----
-
-## Professional Development
-
-- **Current Focus:** Full-stack web development with Spring Boot and enterprise Java patterns
-- **Career Interests:** Software Development, Machine Learning, Data Engineering
-- **Learning Goals:** Cloud deployment, microservices architecture, advanced database optimization
 
 ---
 
