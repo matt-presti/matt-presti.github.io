@@ -44,6 +44,7 @@ PostgreSQL, MySQL, MongoDB, Cassandra
 
 ### Technologies & Frameworks
 **Backend/Web:** Spring Boot, RESTful APIs, Docker, Git, JPA/Hibernate, Spring Security, Maven
+
 **Machine Learning/Data Science:** TensorFlow, PyTorch, Hugging Face Transformers, XGBoost, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, UMAP/HDBSCAN Clustering
 
 
