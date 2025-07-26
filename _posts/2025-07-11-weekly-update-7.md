@@ -2,7 +2,7 @@
 layout: post
 title: "Weekly Project Post #7"
 subtitle: InvestaTrack development updates
-date: 2025-07-011
+date: 2025-07-11
 thumbnail-img: /assets/img/IT.png
 tags: [project, java, spring-boot, weekly-update]
 author: Matthew Presti
