@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Weekly Project Post #9"
+subtitle: InvestaTrack development updates
+date: 2025-07-25
+thumbnail-img: /assets/img/IT.png
+tags: [project, java, spring-boot, weekly-update]
+author: Matthew Presti
+---
+
 ### What did you do last week?
 
 I made significant progress this week and worked out a lot of bugs! I successfully resolved all the critical relationship and JSON serialization issues that were halting my progress. The breakthrough came from implementing a comprehensive DTO (Data Transfer Object) pattern that eliminated lazy loading exceptions and provided clean API responses.
