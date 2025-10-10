@@ -26,7 +26,7 @@ Computer science student with proven healthcare management experience and molecu
 
 **Bachelor of Science in Applied Computer Science**  
 *University of Colorado Boulder* | Expected Graduation: August 2025  
-**GPA:** 3.65
+**GPA:** 3.71
 
 **Bachelor of Arts in Molecular Biology** (Minor in Spanish)  
 *Colorado College* | 2019  
@@ -76,19 +76,20 @@ PostgreSQL, MySQL, MongoDB, Cassandra
 ## Projects
 
 ### InvestaTrack: Investment Portfolio Tracker
-*Personal Development Project | In Progress*
-- Building a full-stack investment portfolio tracking application using Spring Boot and Java
-- Implementing RESTful API design with PostgreSQL database integration and Spring Security authentication
-- Developing real-time portfolio performance monitoring through financial data API integration
+*Personal Development Project | Completed August 2025*
+- Developed full-stack investment portfolio tracking application using Spring Boot 3.5.3, Java 17, and React.js with Material-UI
+- Designed and implemented 25+ RESTful API endpoints with comprehensive CRUD operations across 5 core entities using Spring Data JPA
+- Architected DTO pattern for clean API contracts and created professional API documentation using OpenAPI/Swagger
+- Built automated testing infrastructure and implemented Spring Security configuration with CORS support
 
 ### WildFireCast: Predictive Analytics for Wildfire Risk Assessment
-*Data Science Research Project | 2024*
+*Data Science Research Project | 2025*
 - Built a geospatial data pipeline integrating NOAA weather data and NASA MODIS satellite imagery using Python and SQL for wildfire risk analysis
 - Applied complementary data mining approaches including predictive modeling (XGBoost) and unsupervised pattern discovery (UMAP with HDBSCAN clustering) to identify critical wildfire event patterns
 - Achieved 80% accuracy in predicting fire intensity based on weather conditions
 
 ### CodeDocGen: Automated Documentation Generator for Python Functions
-*Natural Language Processing Project | 2024*
+*Natural Language Processing Project | 2025*
 - Designed and implemented an NLP pipeline using transformer-based model (CodeBERT) to automatically generate technical documentation from Python source code
 - Implemented industry-standard NLP evaluation metrics and assessed utility by accuracy in parameter and return value identification
 
